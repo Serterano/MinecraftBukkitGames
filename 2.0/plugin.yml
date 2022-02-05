@@ -1,0 +1,15 @@
+name: BukkitGames
+version: 1.0
+main: me.serterano.com.main
+author: Erano
+description: BukkitGames
+commands:
+   Kit:
+      description: Kit Sec
+      usage: /kit
+   online:
+      description: online oyuncu sayisi
+      usage: /online
+   KillEntities:
+      description: entityleri oldur
+      usage: /KillEntities
